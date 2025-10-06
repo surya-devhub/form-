@@ -1,0 +1,155 @@
+
+body > h1
+{
+    text-align: center;
+    color: rgb(25, 108, 251);
+    font-size: 50px;
+    font-family: sans-serif;
+}
+form
+{
+    text-align: center;
+    margin: auto;
+    /* border: 10px solid hsl(0, 0%, 100%); */
+    box-shadow: 0px 0px 4px 0px;
+    width: 400px;
+    height: 530px;
+    border-radius: 7px;
+}
+.head
+{
+    text-align: center;
+    border-bottom: 1px solid rgb(158, 154, 154);
+    height: 70px;
+}
+.head > h2
+{
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    margin: 0px;
+    padding: 1px;
+}
+.head > p
+{
+    /* border: 1px solid black; */
+    margin: auto;
+}
+.name
+{
+    display: inline;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 1px 15px;
+}
+#date
+{
+    width: 110px;
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 5px;
+}
+#month
+{
+    width: 110px;
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+#year
+{
+    width: 110px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 26px;
+    border-radius: 5px;
+}
+.dob > p
+{
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 1px;
+    font-size: 15px;
+}
+.gender > p
+{
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 1px;
+    font-size: 15px;
+}
+.gender
+{
+    display: inline;
+}
+#female
+{
+    border: 1px solid grey;
+    margin:10px;
+    border-radius: 5px;
+    width: 40px;
+    padding: 5px;
+}
+#male
+{
+    border: 1px solid grey;
+    margin:10px;
+    border-radius: 5px;
+    width: 40px;
+    padding: 5px;
+    margin-left: 1px;
+}
+#other
+{
+    border: 1px solid grey;
+    margin:10px;
+    border-radius: 5px;
+    width: 40px;
+    padding: 5px;
+    margin-left: 1px;
+}
+.phone
+{
+    width: 330px;
+    height: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.email
+{
+    width: 330px;
+    height: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.password
+{
+    width: 330px;
+    height: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 10px;
+}
+#btn
+{
+    background-color: rgb(14, 177, 14);
+    width: 160px;
+    height: 36px;
+    color: white;
+    font-size: 16px;
+    font-weight:bold;
+    border-radius: 6px;
+    margin-top: 40px;
+    border-style: none;
+}
+.foot
+{
+    font-size: 17px;
+    color: hsl(218, 100%, 50%);
+}
